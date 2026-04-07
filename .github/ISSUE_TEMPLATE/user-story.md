@@ -8,11 +8,14 @@ assignees: ''
 ---
 
 ## User Story
-**As a** ... 
-**I need** ... 
-**So that** ... 
+**As a** [role]
+**I need** [capability]
+**So that** [benefit]
 
 ## Acceptance Criteria
-**Given** ... 
-**When** ... 
-**Then** ...
+**Given** [initial context or state]
+**When** [action is performed]
+**Then** [expected outcome]
+
+## Additional Context
+(Optional) Add any additional information here
